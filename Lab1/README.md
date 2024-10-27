@@ -1,11 +1,3 @@
-# Enterprise Application Development Course
-
-| Name       | Naol Kumela |
-| ---------- | ----------- |
-| Student ID | ATR/3173/13 |
-
-# Instructor: Mr. Yared Y.
-
 # Java JDBC Connection Examples
 
 This repository contains several Java programs demonstrating database connections using JDBC. These examples illustrate different approaches to connecting to a MySQL database, including using both Eclipse and VSCode IDEs, and also includes a simple math class example.
