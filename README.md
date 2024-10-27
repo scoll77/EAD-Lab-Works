@@ -1,7 +1,5 @@
 # Enterprise Application Development Course
 
-## Naol Kumela, ID: ATR/3173/13
-
 | Name       | Naol Kumela |
 | ---------- | ----------- |
 | Student ID | ATR/3173/13 |
