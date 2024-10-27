@@ -6,7 +6,7 @@
 | ---------- | ----------- |
 | Student ID | ATR/3173/13 |
 
-# Instructor: Mr. Yared Y.\*\*
+# Instructor: Mr. Yared Y.
 
 # Java JDBC Connection Examples
 
