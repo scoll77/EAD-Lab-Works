@@ -27,8 +27,10 @@ Deploy the compiled application to your web server (e.g., Apache Tomcat).
 ### 3. Access the Servlet
 Open your web browser and navigate to:
 ```
-http://localhost:8080/circle?radius=5&unit=cm
+http://localhost:8080/Circle/circle?radius=5&unit=cm
 ```
+
+![Image 1](imgs/circle.png)
 
 > **Note:** Replace `localhost:8080` with your server's address and port, and adjust the radius and unit parameters as needed.
 
