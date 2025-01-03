@@ -1,10 +1,10 @@
-package com.naolk.k;
+package com.naolk.n;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class KApplicationTests {
+class NApplicationTests {
 
 	@Test
 	void contextLoads() {
