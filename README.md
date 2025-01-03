@@ -1,4 +1,4 @@
-# Enterprise Application Development Course
+# Enterprise Application Development University Course
 
 | Name       | Naol Kumela |
 | ---------- | ----------- |
